@@ -1,3 +1,3 @@
 # SuperHearseAI
 
-ya'll can copy this shit if you want, idc.
+An alternative hearse AI for Cities Skylines that optimizes routes and increases efficiency.
